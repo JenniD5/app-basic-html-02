@@ -1,0 +1,38 @@
+/*#arbol{
+    
+    
+    
+  
+        position: absolute;
+        z-index: 100;
+        left: 270px;
+        top: 300px;S
+        width: 200px;
+        height: 200px;
+       
+
+}*/
+
+
+
+nav{ /*todas lo que tenga etiqueta nav*/
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: black;
+        text-decoration: none;
+        background-color: brown;
+}
+
+#nav-container-02/*mandar llamar un id*/
+{
+        background: yellowgreen;
+}
+
+.nav-container-01{
+        background: violet;
+
+}
+
+
+
+
+
